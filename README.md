@@ -1,7 +1,7 @@
-## Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-
 [![Get in touch with me](https://raw.githubusercontent.com/dipakcg/dipakcg/main/dipakgajjar.com-green-header.png)][web]
-I'm Dipak C. Gajjar - a Full Stack Developer and Entrepreneur. I build, maintain and speed up WordPress websites.
+
+## Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+I'm Dipak C. Gajjar - a Full Stack WordPress Developer and Entrepreneur. I build, maintain and speed up WordPress websites.
 
 #### Services I offer:
 → [WordPress Support and Maintenance Services](https://dipakgajjar.com/product/wordpress-support-and-maintenance-services/) <br />
