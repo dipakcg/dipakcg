@@ -9,7 +9,10 @@ I'm Dipak C. Gajjar - a Full Stack WordPress Developer and Entrepreneur. I help 
 
 #### Let's connect!
 
-<span style="display: inline-block;"> [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter] </span> <span style="display: inline-block;"> [<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook] </span> <span style="display: inline-block;"> [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn] </span> <span style="display: inline-block;"> [<img height="30" src = "https://img.shields.io/badge/email-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][email] </span>
+<span style="display: inline-block;"> [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter] </span>
+<span style="display: inline-block;"> [<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook] </span>
+<span style="display: inline-block;"> [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn] </span>
+<span style="display: inline-block;"> [<img height="30" src = "https://img.shields.io/badge/email-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][email] </span>
 
 <hr />
 
